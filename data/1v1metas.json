@@ -95,7 +95,7 @@
 	"Champions 1v1": [
 		"/tour new gen9championsou,elim,,,Champions 1v1",
 		"/tour rules !minteamsize,pickedteamsize=1,maxteamsize=3,-perishsong,-kingsrock,-focussash,-quickclaw,-focusband,-blastoise-mega,-mimikyu,+gengar-mega"
-	]
+	],
 	"1v1 Factory": [
 		"/tour new gen91v1factory,elim"
 	]
